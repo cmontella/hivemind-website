@@ -1,4 +1,4 @@
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://cmontella.gitlab.io/hivemindwebsite/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
