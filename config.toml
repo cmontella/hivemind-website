@@ -1,4 +1,4 @@
-baseurl = "https://cmontella.gitlab.io/hivemindwebsite/"
+baseurl = "https://cmontella.gitlab.io/hivemindwebsite"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -35,7 +35,6 @@ pygmentCodeFences = true
 
 [Author]
   name = "Corey Montella"
-  email = "youremail@domain.com"
   gitlab = "cmontella"
 
 
